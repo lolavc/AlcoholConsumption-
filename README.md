@@ -22,12 +22,12 @@ The research objectives are to examine and describe alcohol consumption patterns
 <a href="/blog">VISUALISATION: ODDS RATIOS AND 95% CI</a></div>
 
 <b>OVERALL GROUP
-![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dw_odds.png)
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/etoh_img/dw_odds.png)
 
 \
 <b>URBAN GROUP
-![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwu_odds.png)
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/etoh_img/dwu_odds.png)
 
 \
 <b>RURAL GROUP
-![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwr_odds.png)
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/etoh_img/dwr_odds.png)
