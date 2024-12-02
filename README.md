@@ -15,3 +15,15 @@ The research objectives are to examine and describe alcohol consumption patterns
   * Chi-Squared test.
   * Logistic Regression.
   * Random Forest for Classification.
+
+\
+<b>OVERALL GROUP: ODDS RATIOS AND 95% CI
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dw_odds.png)
+
+\
+<b>URBAN GROUP: ODDS RATIOS AND 95% CI
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwu_odds.png)
+
+\
+<b>RURAL GROUP: ODDS RATIOS AND 95% CI
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwr_odds.png)
